@@ -1,2 +1,2 @@
 # playfree
-Lista IPTV con tenido vatiable
+Lista IPTV con tenido variable
