@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/playfree-plug/blob/main/imagenes/estrenos.png",ESTRENOS
+https://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/LISTAS/ESTRENOS.m3u
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/playfree-plug/blob/main/imagenes/accion.png",accion
+https://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/LISTAS/animadas.m3u
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/playfree-plug/blob/main/imagenes/animadas.png",animadas
+https://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/LISTAS/animadas.m3u
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/playfree-plug/blob/main/imagenes/ciencia-ficcion.png",ciencia-ficcion
+https://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/LISTAS/ciencia-ficcion.m3u
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/playfree-plug/blob/main/imagenes/comedia.png",comedia
+https://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/LISTAS/comedia.m3u
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/playfree-plug/blob/main/imagenes/drama.png",drama
+https://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/LISTAS/drama.m3u
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/playfree-plug/blob/main/imagenes/superheroes.png",superheroes
+https://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/LISTAS/superheroes.m3u
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/playfree-plug/blob/main/imagenes/terror-suspenso.png",terror-suspenso
+https://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/LISTAS/terror-suspenso.m3u
