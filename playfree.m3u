@@ -15,3 +15,5 @@ https://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/LISTAS/drama.m3u
 https://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/LISTAS/superheroes.m3u
 #EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/playfree-plug/blob/main/imagenes/terror-suspenso.png",terror-suspenso
 https://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/LISTAS/terror-suspenso.m3u
+#EXTINF:-1,tvg-logo="",TV-online
+https://github.com/brunochanrio/Listas-IPTV#:~:text=https%3A//iptv%2Dorg.github.io/iptv/languages/spa.m3u
