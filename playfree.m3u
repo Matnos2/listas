@@ -2,7 +2,7 @@
 #EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/playfree-plug/blob/main/imagenes/estrenos.png",ESTRENOS
 https://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/LISTAS/ESTRENOS.m3u
 #EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/playfree-plug/blob/main/imagenes/accion.png",accion
-https://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/LISTAS/animadas.m3u
+https://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/LISTAS/accion.m3u
 #EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/playfree-plug/blob/main/imagenes/animadas.png",animadas
 https://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/LISTAS/animadas.m3u
 #EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/playfree-plug/blob/main/imagenes/ciencia-ficcion.png",ciencia-ficcion
