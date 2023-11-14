@@ -19,3 +19,5 @@ https://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/LISTAS/terror-suspe
 https://raw.githubusercontent.com/Matnos2/listas/main/ps3flix.m3u
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/Om9li8B7YdDXgseTCwUbIF3NBo7e3J1MZM9g5fLigqrutOjcBSROpgrljTL92nuBoA",TV-online
 https://iptv-org.github.io/iptv/languages/spa.m3u
+#EXTINF:-1,tvg-logo="",TV-online
+http://jomiloma.com/PS3FLIX/TV-JUNIO/BG/playLat.php?ch=Mg==&f=index.m3u
