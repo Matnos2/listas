@@ -5,3 +5,21 @@ https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/ACCION.m3u
 https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/CIENCIA_FICCION.m3u
 #EXTINF:-1 tvg-logo="",Comedia
 https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/COMEDIA.m3u
+#EXTINF:-1 tvg-logo="",Conciertos
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/CONCIERTOS.m3u
+#EXTINF:-1 tvg-logo="",Drama
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/DRAMA.m3u
+#EXTINF:-1 tvg-logo="",Fantasia
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/FANTASIA.m3u
+#EXTINF:-1 tvg-logo="",Infantil
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
+#EXTINF:-1 tvg-logo="",Mexicanas
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/MEXICANAS.m3u
+#EXTINF:-1 tvg-logo="",Romanticas
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/ROMANTICAS.m3u
+#EXTINF:-1 tvg-logo="",Super Heroes
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/SUPER_HEROES.m3u
+#EXTINF:-1 tvg-logo="",Terror
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/TERROR.m3u
+#EXTINF:-1 tvg-logo="",Western
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/WESTERN.m3u
