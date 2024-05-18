@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="",colecciones
+https://raw.githubusercontent.com/Matnos2/listas/main/colecciones.m3u
+#EXTINF:-1 tvg-logo="",peliculas
+http://jomiloma.com/PS3FLIX/SG9sYSBtaSBub21icmUgbm8gaW1wb3J0YSBsbyBxdWUgaW1wb3J0YSBlcyBxdWUgZXN0YXMgYXF1aSBjb24gYWxndW5hIG1vdGl2YWNpb24gbmVnYXRpdmE=.php?id=czl1Szd0YkxvcVJZTzRVZk1YRnRnNEFqdUlKZC8vUWhkOU1MUS9jS21GUT0=&f=menu.m3u
+#EXTINF:-1 tvg-logo="",series
+https://raw.githubusercontent.com/Matnos2/listas/main/SERIES.m3u
+#EXTINF:-1 tvg-logo="",Anime
+https://raw.githubusercontent.com/Matnos2/listas/main/animes.m3u
