@@ -5,6 +5,9 @@ https://dl.dropbox.com/s/37k6nevp30wkxvy/COLET4R4NTINO.M3U
 #EXTINF:-1,tvg-logo="https://archive.org/download/cricri-2/CRICRI2.png",Coleccion Chris Columbus
 https://dl.dropbox.com/s/jqdo63wtxlekk3f/COLECHRISCOLUMBUS.M3U
 
+#EXTINF:-1,tvg-logo=" ",Coleccion Estudio Ghibli latino
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/colecciones/studio-ghibli-latino.m3u
+
 #EXTINF:-1,tvg-logo="https://archive.org/download/tipor/tipor.png",Coleccion Tim Burtom
 https://dl.dropbox.com/s/vnyeocvl4rh1o4f/COLETIMBURTOM.M3U
 
