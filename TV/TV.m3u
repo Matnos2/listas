@@ -17,3 +17,13 @@ https://raw.githubusercontent.com/Matnos2/listas/main/TV/Plex-mx.m3u8
 https://raw.githubusercontent.com/Matnos2/listas/main/TV/raw-tv.m3u8
 #EXTINF:-1 tvg-logo="",Roku
 https://raw.githubusercontent.com/Matnos2/listas/main/TV/Roku.m3u8
+#EXTINF:-1 tvg-logo="",IPTV org es
+https://raw.githubusercontent.com/Matnos2/listas/main/TV/iptv-org-es-an.m3u
+#EXTINF:-1 tvg-logo="",IPTV org Lat y Car
+https://raw.githubusercontent.com/Matnos2/listas/main/TV/iptv-org-lac.m3u
+#EXTINF:-1 tvg-logo="",IPTV org Latam
+https://raw.githubusercontent.com/Matnos2/listas/main/TV/iptv-org-es-latam.m3u
+#EXTINF:-1 tvg-logo="",IPTV org esp
+https://raw.githubusercontent.com/Matnos2/listas/main/TV/iptv-org-spa.m3u
+
+
