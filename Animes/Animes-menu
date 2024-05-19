@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo=" ",Series de Anime
+https://raw.githubusercontent.com/Matnos2/listas/main/Animes/series-animes.m3u
+#EXTINF:-1 tvg-logo=" ",Peliculas de Anime
+https://raw.githubusercontent.com/Matnos2/listas/main/Animes/peliculas-animes.m3u
