@@ -6,7 +6,6 @@ https://raw.githubusercontent.com/Matnos2/listas/main/Pelis.m3u
 #EXTINF:-1 tvg-logo="",series
 https://raw.githubusercontent.com/Matnos2/listas/main/SERIES.m3u
 #EXTINF:-1 tvg-logo="",Anime
-#EXTINF:-1 tvg-logo=" ",Series de Anime
 https://raw.githubusercontent.com/Matnos2/listas/main/Animes/Animes-menu.m3u
 #EXTINF:-1 tvg-logo="",Player-Free
 https://raw.githubusercontent.com/Matnos2/listas/main/playfree.m3u
