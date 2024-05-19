@@ -1,0 +1,11 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Rebels"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/92s5rzD/T1.jpg",Temporada 1
+https://bit.ly/3R8kQi7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JFq52s5/T2.jpg",Temporada 2
+https://bit.ly/45Ab6Rs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nB8H86q/T3.jpg",Temporada 3
+https://bit.ly/3OLlRcU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RbhSTWV/T4.jpg",Temporada 4
+https://bit.ly/47L0YaE
