@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml"
+#EXTM3U 
 #EXTINF:-1 channel-id="samsung-ATBA1000004XC" tvg-id="ATBA1000004XC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1000004XC_20230222T012142SQUARE.png_20230222012142.png" tvg-chno="4003" group-title="Austria" , Euronews Live
 https://i.mjh.nz/SamsungTVPlus/ATBA1000004XC.m3u8
 
