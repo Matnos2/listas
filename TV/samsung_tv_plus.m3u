@@ -4837,3 +4837,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBD3500022DN" tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20240401T235658SQUARE.png" tvg-chno="1552" group-title="United States" , Stingray Greatest Hits
 https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD350009991" tvg-id="USBD350009991" tvg-logo="https://canvas-bridge02.tubitv.com/tS1fnCTMgElqQW3pQy-QiYOq4SE=/47x0:1884x1080/978x576/smart/img.adrise.tv/c2782a4b-9d8d-4f1a-8b56-f2210a6049c8.png" tvg-chno="1555" group-title="United States" , News 12 NY
+https://apollo.production-public.tubi.io/live/news12/himxr.m3u8?ap.debug=0&ap.pt=2&ap.sid=4a774c4d-c688-4791-b530-62d7040be298&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=557345&content_type=mp4&device_id=3839b8ab-f696-4bb8-8d68-595f1eb7b764&language=en&now_pos=0&platform=WEB&pub_id=a61acdb669d2fd2484ff64ff7025055a&vpaid_enabled=true
