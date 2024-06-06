@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/all/epg.xml"
+#EXTM3U 
 
 #EXTINF:-1 channel-id="mjh-discovery-popup1" tvg-id="mjh-discovery-popup1" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1709691768464/20240503T165613_threenow_sport_1_epg_750x500.png" group-title="Nz" , ThreeNow Sport 1
 https://i.mjh.nz/discovery-popup1.m3u8
