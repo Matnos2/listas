@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml"
+#EXTM3U 
 #EXTINF:-1 channel-id="pluto-5ba3fb9c4b078e0f37ad34e8" tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" tvg-chno="10" group-title="USA" , Pluto TV Spotlight
 https://r.mjh.nz/PlutoTV/5ba3fb9c4b078e0f37ad34e8-alt.m3u8
 
