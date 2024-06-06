@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml"
+#EXTM3U 
 #EXTINF:-1 channel-id="pluto-65dded6966eec80008947157" tvg-id="65dded6966eec80008947157" tvg-logo="https://images.pluto.tv/channels/65dded6966eec80008947157/colorLogoPNG.png" tvg-chno="24" group-title="Nuevo en Pluto TV" , Call the Midwife
 https://r.mjh.nz/PlutoTV/65dded6966eec80008947157-alt.m3u8
 
