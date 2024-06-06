@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml"
+#EXTM3U 
 #EXTINF:-1 channel-id="samsung-ES4000016U" tvg-id="ES4000016U" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4000016U_20240507T094157SQUARE.png" tvg-chno="4001" group-title="Drama" , Acacias 38
 https://i.mjh.nz/SamsungTVPlus/ES4000016U.m3u8
 
