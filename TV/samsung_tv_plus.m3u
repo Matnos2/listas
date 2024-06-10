@@ -4843,3 +4843,15 @@ https://apollo.production-public.tubi.io/live/news12/himxr.m3u8?ap.debug=0&ap.pt
 
 #EXTINF:-1 channel-id="samsung-USBD350009992" tvg-id="USBD350009992" tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/242152017_10159379974408633_2092654455209174860_n.png?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8dy62nqgwgIQ7kNvgHdRNnf&_nc_ht=scontent-lga3-1.xx&oh=00_AYAOvxj2MDpnnrWn-1dD4bam6qjt4kGiPPW64OkxI39R5g&oe=66682802" tvg-chno="1555" group-title="United States" , Telemundo 47 NY
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889716/hls/playlist.m3u8?ads.xumo_channelId=88889716&ads.xumo_streamId=88889716&ads.csid=nbc_us_desktopweb_telemundonoticiasnoreste_ssai&ads.caid=TelemundoNoticiasNoreste&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_devicetype=2-Personal_Computer&ads._fw_coppa=0&ads._fw_is_lat=0&ads._fw_us_privacy=1YYN&ads._fw_h_x_country=US&ads._fw_player_width=872&ads._fw_player_height=491&ads.xumo_contentId=3906&ads.xumo_contentName=TelemundoNoticiasNoreste&ads.xumo_ifaType=dpid&ads.xumo_providerId=3906&ads.xumo_providerName=TelemundoNoticiasNoreste&ads.site_name=TLMD&ads._fw_site_page=https%25253A%25252F%25252Fwww.telemundo47.com%25252Fen-vivo%25252F
+
+#EXTINF:-1 channel-id="samsung-USBD350009993" tvg-id="USBD350009993" tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png" tvg-chno="1556" group-title="Ecuador" , Ecuavisa internacional
+https://dai.google.com/linear/hls/pa/event/GyPkTVDZSXGhpOvxPK7m2g/stream/97d2b36b-ed28-43f6-8972-7a7df631d4aa:DLS/variant/fc791348de2396a617fb8c1bf4b1b126/bandwidth/1658813.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD350009994" tvg-id="USBD350009994" tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png" tvg-chno="1558" group-title="Ecuador" , Ecuavisa 
+https://dai.google.com/linear/hls/pa/event/GyPkTVDZSXGhpOvxPK7m2g/stream/97d2b36b-ed28-43f6-8972-7a7df631d4aa:DLS/variant/fc791348de2396a617fb8c1bf4b1b126/bandwidth/1658813.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD350009995" tvg-id="USBD350009995" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" tvg-chno="1559" group-title="Argentina" , AnimeStation
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD350009996" tvg-id="USBD350009996" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion_Roku.png" tvg-chno="1560" group-title="Argentina" , Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
