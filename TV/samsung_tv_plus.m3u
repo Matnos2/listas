@@ -4845,13 +4845,16 @@ https://apollo.production-public.tubi.io/live/news12/himxr.m3u8?ap.debug=0&ap.pt
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889716/hls/playlist.m3u8?ads.xumo_channelId=88889716&ads.xumo_streamId=88889716&ads.csid=nbc_us_desktopweb_telemundonoticiasnoreste_ssai&ads.caid=TelemundoNoticiasNoreste&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_devicetype=2-Personal_Computer&ads._fw_coppa=0&ads._fw_is_lat=0&ads._fw_us_privacy=1YYN&ads._fw_h_x_country=US&ads._fw_player_width=872&ads._fw_player_height=491&ads.xumo_contentId=3906&ads.xumo_contentName=TelemundoNoticiasNoreste&ads.xumo_ifaType=dpid&ads.xumo_providerId=3906&ads.xumo_providerName=TelemundoNoticiasNoreste&ads.site_name=TLMD&ads._fw_site_page=https%25253A%25252F%25252Fwww.telemundo47.com%25252Fen-vivo%25252F
 
 #EXTINF:-1 channel-id="samsung-USBD350009993" tvg-id="USBD350009993" tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png" tvg-chno="1556" group-title="Ecuador" , Ecuavisa internacional
-https://dai.google.com/linear/hls/pa/event/GyPkTVDZSXGhpOvxPK7m2g/stream/97d2b36b-ed28-43f6-8972-7a7df631d4aa:DLS/variant/fc791348de2396a617fb8c1bf4b1b126/bandwidth/1658813.m3u8
+https://dai.google.com/linear/hls/pa/event/GyPkTVDZSXGhpOvxPK7m2g/stream/be8f9941-04f5-4775-8772-59f7a4b769a5:MRN2/variant/fc791348de2396a617fb8c1bf4b1b126/bandwidth/1636753.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBD350009994" tvg-id="USBD350009994" tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png" tvg-chno="1558" group-title="Ecuador" , Ecuavisa 
-https://dai.google.com/linear/hls/pa/event/GyPkTVDZSXGhpOvxPK7m2g/stream/97d2b36b-ed28-43f6-8972-7a7df631d4aa:DLS/variant/fc791348de2396a617fb8c1bf4b1b126/bandwidth/1658813.m3u8
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8?dpssid=b427012885566719eb17af21&ndvc=1&sid=ba5t1l1xb4152846981066719eb17af1f
 
 #EXTINF:-1 channel-id="samsung-USBD350009995" tvg-id="USBD350009995" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" tvg-chno="1559" group-title="Argentina" , AnimeStation
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBD350009996" tvg-id="USBD350009996" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion_Roku.png" tvg-chno="1560" group-title="Argentina" , Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD350009997" tvg-id="USBD350009997" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion_Roku.png" tvg-chno="1560" group-title="Argentina" , Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
