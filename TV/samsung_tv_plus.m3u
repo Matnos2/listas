@@ -4858,3 +4858,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBD350009997" tvg-id="USBD350009997" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion_Roku.png" tvg-chno="1560" group-title="Argentina" , Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD350009998" tvg-id="USBD350009998" tvg-logo="https://images.app.goo.gl/37XeT9B8H3yNFg1J9" tvg-chno="1561" group-title="Ecuador" , Teleamazonas
+https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
