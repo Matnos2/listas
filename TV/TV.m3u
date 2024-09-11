@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",Samsung tv plus
-https://raw.githubusercontent.com/Matnos2/listas/main/TV/samsung_tv_plus.m3u
+https://raw.githubusercontent.com/Matnos2/listas/main/TV/samsung_tv_plus-all.m3u
 #EXTINF:-1 tvg-logo="",Samsung tv plus es
 https://raw.githubusercontent.com/Matnos2/listas/main/TV/samsung_tv_plus-es.m3u
 #EXTINF:-1 tvg-logo="",Pluto tv
-https://raw.githubusercontent.com/Matnos2/listas/main/TV/PlutoTv.m3u
+https://raw.githubusercontent.com/Matnos2/listas/main/TV/PlutoTv-all.m3u
 #EXTINF:-1 tvg-logo="",Pluto tv es
 https://raw.githubusercontent.com/Matnos2/listas/main/TV/PlutoTv-es.m3u
 #EXTINF:-1 tvg-logo="",Plex
-https://raw.githubusercontent.com/Matnos2/listas/main/TV/plex.m3u
+https://raw.githubusercontent.com/Matnos2/listas/main/TV/plex-all.m3u
 #EXTINF:-1 tvg-logo="",Plex es
 https://raw.githubusercontent.com/Matnos2/listas/main/TV/plex-es.m3u
 #EXTINF:-1 tvg-logo="",Plex mx
@@ -17,6 +17,8 @@ https://raw.githubusercontent.com/Matnos2/listas/main/TV/plex-mx.m3u
 https://raw.githubusercontent.com/Matnos2/listas/main/TV/raw-tv.m3u
 #EXTINF:-1 tvg-logo="",Roku
 https://raw.githubusercontent.com/Matnos2/listas/main/TV/roku.m3u
+#EXTINF:-1 tvg-logo="",xumo
+https://raw.githubusercontent.com/Matnos2/listas/main/TV/xumo.m3u
 #EXTINF:-1 tvg-logo="",IPTV org es
 https://raw.githubusercontent.com/Matnos2/listas/main/TV/iptv-org-es-an.m3u
 #EXTINF:-1 tvg-logo="",IPTV org Lat y Car
