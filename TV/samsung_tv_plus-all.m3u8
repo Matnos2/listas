@@ -4837,3 +4837,27 @@ https://jmp2.uk/sam-USBD3300021KV.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBD3500022DN" tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20240401T235658SQUARE.png" tvg-chno="1552" group-title="United States" , Stingray Greatest Hits
 https://jmp2.uk/sam-USBD3500022DN.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD350009991" tvg-id="USBD350009991" tvg-logo="https://canvas-bridge02.tubitv.com/tS1fnCTMgElqQW3pQy-QiYOq4SE=/47x0:1884x1080/978x576/smart/img.adrise.tv/c2782a4b-9d8d-4f1a-8b56-f2210a6049c8.png" tvg-chno="1555" group-title="United States" , News 12 NY
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-News12.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD350009992" tvg-id="USBD350009992" tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/242152017_10159379974408633_2092654455209174860_n.png?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8dy62nqgwgIQ7kNvgHdRNnf&_nc_ht=scontent-lga3-1.xx&oh=00_AYAOvxj2MDpnnrWn-1dD4bam6qjt4kGiPPW64OkxI39R5g&oe=66682802" tvg-chno="1555" group-title="United States" , Telemundo 47 NY
+https://d2kowtvrzzi7ps.cloudfront.net/11602/88889716/hls/playlist.m3u8?ads.xumo_channelId=88889716&ads.xumo_streamId=88889716&ads.csid=nbc_us_desktopweb_telemundonoticiasnoreste_ssai&ads.caid=TelemundoNoticiasNoreste&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_devicetype=2-Personal_Computer&ads._fw_coppa=0&ads._fw_is_lat=0&ads._fw_us_privacy=1YYN&ads._fw_h_x_country=US&ads._fw_player_width=872&ads._fw_player_height=491&ads.xumo_contentId=3906&ads.xumo_contentName=TelemundoNoticiasNoreste&ads.xumo_ifaType=dpid&ads.xumo_providerId=3906&ads.xumo_providerName=TelemundoNoticiasNoreste&ads.site_name=TLMD&ads._fw_site_page=https%25253A%25252F%25252Fwww.telemundo47.com%25252Fen-vivo%25252F
+
+#EXTINF:-1 channel-id="samsung-USBD350009993" tvg-id="USBD350009993" tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png" tvg-chno="1556" group-title="Ecuador" , Ecuavisa internacional
+https://dai.google.com/linear/hls/pa/event/GyPkTVDZSXGhpOvxPK7m2g/stream/be8f9941-04f5-4775-8772-59f7a4b769a5:MRN2/variant/fc791348de2396a617fb8c1bf4b1b126/bandwidth/1636753.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD350009994" tvg-id="USBD350009994" tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png" tvg-chno="1558" group-title="Ecuador" , Ecuavisa 
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8?dpssid=b427012885566719eb17af21&ndvc=1&sid=ba5t1l1xb4152846981066719eb17af1f
+
+#EXTINF:-1 channel-id="samsung-USBD350009995" tvg-id="USBD350009995" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" tvg-chno="1559" group-title="Argentina" , AnimeStation
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD350009996" tvg-id="USBD350009996" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion_Roku.png" tvg-chno="1560" group-title="Argentina" , Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD350009997" tvg-id="USBD350009997" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion_Roku.png" tvg-chno="1560" group-title="Argentina" , Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD350009998" tvg-id="USBD350009998" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" tvg-chno="1561" group-title="Ecuador" , Teleamazonas 
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
