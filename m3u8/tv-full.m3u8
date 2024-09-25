@@ -343,15 +343,15 @@ https://jmp2.uk/sam-USBD35000180U.m3u8
 https://jmp2.uk/sam-USBD3300021KV.m3u8
 
 
-#EXTINF:-1 channel-id="ECU-00001" tvg-id="AmericaEstereoGuayaquil.ec" tvg-logo="" tvg-chno="" group-title="ECUADOR" , América Estéreo Guayaquil (360p)
+#EXTINF:-1 channel-id="ECU-00001" tvg-id="AmericaEstereoGuayaquil.ec" tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/america-guayaquil.png" tvg-chno="" group-title="ECUADOR" , América Estéreo Guayaquil (360p)
 https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
-#EXTINF:-1 channel-id="ECU-00003" tvg-id="AmericaEstereoQuito.ec" tvg-logo="" tvg-chno="" group-title="ECUADOR" , América Estéreo Quito (1080p)
+#EXTINF:-1 channel-id="ECU-00003" tvg-id="AmericaEstereoQuito.ec" tvg-logo="https://cdn-radiotime-logos.tunein.com/s18591g.png" tvg-chno="" group-title="ECUADOR" , América Estéreo Quito (1080p)
 https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
 #EXTINF:-1 channel-id="ECU-00005" tvg-id="CiracuTV.ec" tvg-logo="" tvg-chno="" group-title="ECUADOR" , Ciracu TV (720p) [Not 24/7]
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 #EXTINF:-1 channel-id="ECU-00007" tvg-id="FMMundo.ec" tvg-logo="" tvg-chno="" group-title="ECUADOR" , FM Mundo (1080p)
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
-#EXTINF:-1 channel-id="ECU-00009" tvg-id="CuriquingueTV.ec" tvg-logo="" tvg-chno="" group-title="ECUADOR" , Curiquingue TV (720p)
+#EXTINF:-1 channel-id="ECU-00009" tvg-id="CuriquingueTV.ec" tvg-logo="https://curiquinguetv.com/wp-content/uploads/2024/05/cropped-logo000-2.png" tvg-chno="" group-title="ECUADOR" , Curiquingue TV (720p)
 https://video2.lhdserver.es/pjtv/live.m3u8
 #EXTINF:-1 channel-id="ECU-00011" tvg-id="InfinitaTV.ec" tvg-logo="" tvg-chno="" group-title="ECUADOR" , Infinita TV (1080p)
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
@@ -399,11 +399,13 @@ https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8154/index.m3u8
 #EXTINF:-1 channel-id="ECU-00055" tvg-id="USBD350009993" tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png" tvg-chno="1556" group-title="ECUADOR" , Ecuavisa internacional
 https://dai.google.com/linear/hls/pa/event/GyPkTVDZSXGhpOvxPK7m2g/stream/be8f9941-04f5-4775-8772-59f7a4b769a5:MRN2/variant/fc791348de2396a617fb8c1bf4b1b126/bandwidth/1636753.m3u8
-#EXTINF:-1 channel-id="ECU-00057" tvg-id="USBD350009995" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" tvg-chno="1559" group-title="ECUADOR" , AnimeStation
+#EXTINF:-1 channel-id="ECU-00070" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" tvg-chno="" group-title="ECUADOR" , Ecuador tv
+https://samson.streamerr.co:8081/shogun/index.m3u8
+#EXTINF:-1 channel-id="ECU-00057" tvg-id="USBD350009995" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" tvg-chno="1559" group-title="ARGENTINA" , AnimeStation
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
-#EXTINF:-1 channel-id="ECU-00059" tvg-id="USBD350009997" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion_Roku.png" tvg-chno="1560" group-title="ECUADOR" , Locomotion
+#EXTINF:-1 channel-id="ECU-00059" tvg-id="USBD350009997" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion_Roku.png" tvg-chno="1560" group-title="ARGENTINA" , Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 channel-id="ECU-00061" tvg-id="EducaTV.ec" tvg-logo="" tvg-chno="" group-title="ECUADOR" , EducaTV (720p) [Not 24/7]
+#EXTINF:-1 channel-id="ECU-00061" tvg-id="EducaTV.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Educatv.jpg/revision/latest?cb=20230815122508" tvg-chno="" group-title="ECUADOR" , EducaTV (720p) [Not 24/7]
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1 channel-id="ECU-00063" tvg-id="RadioFantastica989FM.ec" tvg-logo="" tvg-chno="" group-title="ECUADOR" , Radio Fantástica 98.9 FM (1080p)
 http://190.107.232.9:8082/livestream/stream.m3u8
@@ -1081,4 +1083,3 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="Wired.us" tvg-logo="" tvg-chno="" group-title="XUMO" , Wired (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
-
