@@ -353,7 +353,7 @@ https://play-us.samsungtvplus.com/tvplus/web/v3/play?tid=TElqMTlRQ2QxcStESTdONXF
 https://dcs3-live.mp.lura.live/server/podserve/jWKwKpTWEZGBcaPj/rendition.m3u8?track=video-5&ts=1727224621&psi=a419f7e57ccc09dcab1eda0363eddeeb&encp=hn7AcM6SVNG5pqlM5A9fuw:UmFxb5ze3gFcBQio8jzu-Y_ZiThiTgHTZw_EeiNlwtg3XoWSuLFl4SYL22ObdC8-mxSvoyFGx8dX2VRUsg7_yUSbs3QShW69peGudNYLQvlDvYgFD4U5vfck5hE1I6INjScLIadfSg18ILLXv7OsD5NBt4SZn74IclltvQOBbVYdA2msb8Hogg5ro4Ra4DMq21HsQTMr5-y6yNCTmhdVcS4AGe59b26l3J4MOfeydrpJ0rmJkxKkmZcOsL26NMx0-uSyIUc6UJ1xstnLGfedslHlTGLA3CxU_T0xmmFXHXn10xwH7iabM8k_rOfhr4fLXzJXDpHqCs3C64zU0o1_9lytUN-DF38rCNYzp0vKA5nuEt5bHH570PWAEdqM1xiSDqLHSpZrpMlG_Qq40WXEkLOGEEUEjHdkqT8NYZj0w6Dwo0LkwEp7Mv71CxrNAY2p6ciT3S87zgQDH0JivV1i6tORoqdqgutMsNKu_T4o6I980MLO_y6yz1tV9k2zTZkVGAzEBxqaObd1WA0CdNqdI10Q5y_N9hyUW47IkvByd_0XRbjGOY_rQvWE_3VtEsarCp8CEcl_U33J-bR-aLXw6ss1qOt4oo3emWw3VF7UZfiQmJ_8FpKQrMl5osNOZ3JViYzUJQOnRy2jW_eO5qe9DjMzgoOUaiVvTFWirUsLqgesqYMeSHXD5pUTcviysUYociWFia16zEQzzURYat7dVdBueBA-0lNbiJrY8_-rUsdGv7UyGy0jhluDkKJlMgdZ3eHCU9M4FqW161v06vldo_tYdzfQtE0wUO15VJ5bI7DekIwZSESK9iGy6NpqS5RemUvymXFSy8F1TjuaGpMRFKGrhXPKstg-QauF5lRO0io0Z_N-yEiHwozvcSccoCXSqjN5N8GkZRp1-AGZRZqJUg-ZI7zHljFa6PgH4jrBXu0SC6cFeQKAKF1ZOZGDtYAiKwDDktvNzcGjmU9xxnsKJZVoi7v471Ud0l32TsDUm8UfRRJhzF9PPfj0t3r-qlihWSKmnCiK5hN5MhF-sRZf_6_lJK9GxR_FhtdFkFX8jsGnrOb-jiQPBvQZFyXtY2FJmdlC8CwrAxJFMspvqV42nAghAoO_iDN_q8o3hJqun3A&pcqx=041e9e625e9e93433d91c6efaeb96420&sid=eed9c41a-fb61-4dda-ae2e-bb2256ba06e5:CBF2
 
 #EXTINF:-1 channel-id="ECU-00071" tvg-id="EcuavisaInternacional" tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png" tvg-chno="1556" group-title="ECUADOR" , Ecuavisa internacional
-https://dai.google.com/linear/hls/pa/event/GyPkTVDZSXGhpOvxPK7m2g/stream/be8f9941-04f5-4775-8772-59f7a4b769a5:MRN2/variant/fc791348de2396a617fb8c1bf4b1b126/bandwidth/1636753.m3u8
+https://dai.google.com/linear/hls/pa/event/GyPkTVDZSXGhpOvxPK7m2g/stream/7badde02-c051-4804-acb2-6a77309a1cc1:TUL/variant/fc791348de2396a617fb8c1bf4b1b126/bandwidth/1775066.m3u8
 #EXTINF:-1 channel-id="ECU-00072" tvg-id="EcuavisaEc" tvg-logo="https://cdn.m3u.cl/logo/1567_Ecuavisa.png" tvg-chno="1558" group-title="ECUADOR" , Ecuavisa 
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8?dpssid=b427012885566719eb17af21&ndvc=1&sid=ba5t1l1xb4152846981066719eb17af1f
 #EXTINF:-1 channel-id="ECU-00073" tvg-id="Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" tvg-chno="1561" group-title="ECUADOR" , Teleamazonas 
@@ -426,7 +426,7 @@ https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 #EXTINF:-1 channel-id="ECU-00069" tvg-id="Manavision.ec" tvg-logo="" tvg-chno="" group-title="ECUADOR" , Manavisión (480p)
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
-#EXTINF:-1 channel-id="ECU-00074" tvg-id="Rtu-ec" tvg-logo="" tvg-chno="" group-title="ECUADOR" , RTU
+#EXTINF:-1 channel-id="ECU-00074" tvg-id="Rtu-ec" tvg-logo="https://cdn.m3u.cl/logo/108_RTU_TV.png" tvg-chno="" group-title="ECUADOR" , RTU
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=372405104
 
 #EXTINF:-1 channel-id="pluto-5ba3fb9c4b078e0f37ad34e8" tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" tvg-chno="10" group-title="PLUTO-USA" , "Pluto TV Spotlight"
