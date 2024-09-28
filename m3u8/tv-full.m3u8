@@ -413,9 +413,11 @@ https://cloudvideo.servers10.com:8081/8154/index.m3u8
 #EXTINF:-1 channel-id="ECU-00070" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" tvg-chno="" group-title="ECUADOR" , Ecuador tv
 https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-1 channel-id="ECU-00057" tvg-id="USBD350009995" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" tvg-chno="1559" group-title="ARGENTINA" , AnimeStation
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8?WebM3UCL
 #EXTINF:-1 channel-id="ECU-00059" tvg-id="USBD350009997" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion_Roku.png" tvg-chno="1560" group-title="ARGENTINA" , Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 channel-id="ECU-00059" tvg-id="USBD350009997" tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png" tvg-chno="1560" group-title="ARGENTINA" , Latino Kids TV
+https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1 channel-id="ECU-00061" tvg-id="EducaTV.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Educatv.jpg/revision/latest?cb=20230815122508" tvg-chno="" group-title="ECUADOR" , EducaTV (720p) [Not 24/7]
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1 channel-id="ECU-00063" tvg-id="RadioFantastica989FM.ec" tvg-logo="" tvg-chno="" group-title="ECUADOR" , Radio Fantástica 98.9 FM (1080p)
