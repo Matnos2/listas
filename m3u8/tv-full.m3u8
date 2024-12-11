@@ -365,42 +365,46 @@ https://stream-pull-a.yololiv.com/yololiv/1215701294614847488_yo720p30f.m3u8
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 channel-id="ECU-00001" tvg-id="AmericaEstereoGuayaquil.ec" tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/america-guayaquil.png" group-title="ECUADOR",  América Estéreo Guayaquil (360p)
 https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
-#EXTINF:-1 channel-id="ECU-00003" tvg-id="AmericaEstereoQuito.ec" tvg-logo="https://cdn-radiotime-logos.tunein.com/s18591g.png" group-title="ECUADOR",  América Estéreo Quito (1080p)
-https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
-#EXTINF:-1 channel-id="ECU-00007" tvg-id="FMMundo.ec" tvg-logo="" group-title="ECUADOR",  FM Mundo (1080p)
-https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 #EXTINF:-1 channel-id="ECU-00009" tvg-id="CuriquingueTV.ec" tvg-logo="https://curiquinguetv.com/wp-content/uploads/2024/05/cropped-logo000-2.png" group-title="ECUADOR",  Curiquingue TV (720p)
 https://video2.lhdserver.es/pjtv/live.m3u8
 #EXTINF:-1 channel-id="ECU-00011" tvg-id="InfinitaTV.ec" tvg-logo="" group-title="ECUADOR",  Infinita TV (1080p)
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1 channel-id="ECU-00013" tvg-id="AustralTV.ec" tvg-logo="" group-title="ECUADOR",  Austral TV (1080p)
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
-#EXTINF:-1 channel-id="ECU-00015" tvg-id="EcuaStereoRadioTV.ec" tvg-logo="https://image.roku.com/developer_channels/prod/5936ecd846acf814e0f02775b11c54802693aae1feb57ad41c45f77f8043e803.png" group-title="ECUADOR",  Ecua Stereo Radio TV (1080p)
-https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
 #EXTINF:-1 channel-id="ECU-00017" tvg-id="Asomavision.ec" tvg-logo="" group-title="ECUADOR",  Asomavisión (614p)
 https://asomatv.duckdns.org/livestream/stream.m3u8
 #EXTINF:-1 channel-id="ECU-00025" tvg-id="LaNuevaRadioTV977.ec" tvg-logo="" group-title="ECUADOR",  La Nueva Radio TV 97.7 (720p)
 https://cp.panelchs.com:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 channel-id="ECU-00027" tvg-id="ZaracayTV.ec" tvg-logo="" group-title="ECUADOR",  Zaracay TV (1080p) [Not 24/7]
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-#EXTINF:-1 channel-id="ECU-00029" tvg-id="LaPerlaRadioTV.ec" tvg-logo="" group-title="ECUADOR",  La Perla Radio TV (720p) [Not 24/7]
-https://eu1.servers10.com:8081/8068/index.m3u8
 #EXTINF:-1 channel-id="ECU-00033" tvg-id="DuranTV.ec" tvg-logo="" group-title="ECUADOR",  Durán TV (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8074/index.m3u8
-#EXTINF:-1 channel-id="ECU-00035" tvg-id="RadioAlegria985FM.ec" tvg-logo="" group-title="ECUADOR",  Radio Alegria 98.5 FM (720p)
-https://video.compuwebecuador.com:3880/stream/play.m3u8
-#EXTINF:-1 channel-id="ECU-00037" tvg-id="TVColorCanal36.ec" tvg-logo="" group-title="ECUADOR",  TV Color Canal 36 (720p)
-https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
-#EXTINF:-1 channel-id="ECU-00039" tvg-id="SonoOndaTV.ec" tvg-logo="" group-title="ECUADOR",  Sono Onda TV (720p)
-https://live.obslivestream.com/sonoondatv/index.m3u8
 #EXTINF:-1 channel-id="ECU-00043" tvg-id="MetropoliMediosTV.ec" tvg-logo="" group-title="ECUADOR",  Metropoli Medios TV (720p)
 https://eu1.servers10.com:8081/8214/index.m3u8
-#EXTINF:-1 channel-id="ECU-00047" tvg-id="NukaTV.ec" tvg-logo="" group-title="ECUADOR",  Ñuka TV (720p)
-https://cloudvideo.servers10.com:8081/8118/index.m3u8
-#EXTINF:-1 channel-id="ECU-00053" tvg-id="RadioBonita1067.ec" tvg-logo="" group-title="ECUADOR",  Radio Bonita 106.7 (720p)
-https://cloudvideo.servers10.com:8081/8154/index.m3u8
 #EXTINF:-1 channel-id="ECU-00070" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR",  Ecuador tv
 https://samson.streamerr.co:8081/shogun/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal UNO " tvg-logo="https://lh6.googleusercontent.com/-5noHuNdiw4o/Tw5TXXC6R0I/AAAAAAAAAjk/EZBL0KrA9r8/s255/UNO-n.jpg" group-title="ECUADOR",Canal UNO 
+https://video.ejeserver.com/live/canaluno.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa HD" tvg-logo="https://d2r89ls1uje5rg.cloudfront.net/sites/default/files/noticias/ecuavisa_0.jpg" group-title="ECUADOR",Ecuavisa HD
+http://mundod.ddns.me:2082/live/C998800/C009988/2382.m3u8
+#EXTINF:-1 tvg-id="I183.46318.schedulesdirect.org" tvg-name="Gama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",Gama TV
+http://mundod.ddns.me:2082/live/C998800/C009988/2383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oromar TV " tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR",Oromar TV 
+http://mundod.ddns.me:2082/live/C998800/C009988/2384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",RTS HD
+http://mundod.ddns.me:2082/live/C998800/C009988/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TC Television HD" tvg-logo="https://radiosecuador.sfo2.digitaloceanspaces.com/tvenvivoecuador/canal/tc.png" group-title="ECUADOR",TC Television HD
+http://mundod.ddns.me:2082/live/C998800/C009988/103.m3u8
+#EXTINF:-1 tvg-id="AEPanregional.us" tvg-name="Teleamazonas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas HD
+http://mundod.ddns.me:2082/live/C998800/C009988/2385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC" tvg-logo="https://www.tvc.com.ec/wp-content/uploads/2023/07/logo-150x150.png" group-title="ECUADOR",TVC
+http://mundod.ddns.me:2082/live/C998800/C009988/2386.m3u8
+#EXTINF:-1 tvg-id="I110.46324.schedulesdirect.org" tvg-name="TC Televisión" tvg-logo="https://www.ecured.cu/images/thumb/d/d1/TC-Televisi%C3%B3n.png/260px-TC-Televisi%C3%B3n.png" group-title="ECUADOR",TC Televisión
+http://mundod.ddns.me:2082/live/C998800/C009988/76533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PrensaEC" tvg-logo="https://i0.wp.com/prensa.ec/wp-content/uploads/2023/09/Logo-PE-21-09-e1694195267329.png" group-title="ECUADOR",PrensaEC
+http://mundod.ddns.me:2082/live/C998800/C009988/76557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTS SD" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="ECUADOR",RTS SD
+http://mundod.ddns.me:2082/live/C998800/C009988/71642.m3u8
 ----------------PLUTO TV---------------------
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5c12ba66eae03059cbdc77f2/colorLogoPNG.png" group-title="PlutoTV",Pluto TV Cars
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c12ba66eae03059cbdc77f2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53797c-eca6-11ee-8a17-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=061773cb-8a68-49ad-930f-b677f16e3147&userId=&serverSideAds=true
