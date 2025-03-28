@@ -358,7 +358,7 @@ https://dai.google.com/linear/hls/pa/event/GyPkTVDZSXGhpOvxPK7m2g/stream/23d0b3c
 #EXTINF:-1 channel-id="ECU-00072" tvg-id="EcuavisaEc" tvg-logo="https://latele.xyz/img/new/ecuavisa.png" group-title="ECUADOR",  Ecuavisa 
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8?dpssid=b427012885566719eb17af21&ndvc=1&sid=ba5t1l1xb4152846981066719eb17af1f
 #EXTINF:-1 channel-id="ECU-00073" tvg-id="Teleamazonas" tvg-logo="https://latele.xyz/img/new/teleamazonas.png" group-title="ECUADOR",  Teleamazonas 
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-video=2000000.m3u8
 #EXTINF:-1 channel-id="ECU-00074" tvg-id="Gamavision" tvg-logo="https://latele.xyz/img/png/gamavision.png" group-title="ECUADOR",  Gamavision 
 https://stream-pull-a.yololiv.com/yololiv/1215701294614847488_yo720p30f.m3u8
 #EXTINF:-1 channel-id="ECU-00076" tvg-id="Oromar" tvg-logo="https://latele.xyz/img/png/oromartv.png" group-title="ECUADOR",  Oromar 
